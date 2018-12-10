@@ -3,4 +3,4 @@ Kumpulan source code percobaan menggunakan Arduino Mega 2560, dan memungkinkan u
 
 
 ## Pinout Arduino Mega 2560
-![alt text](./Arduino-mega.jpg)
+![Arduino Mega 2560](./Arduino-mega.jpg)
